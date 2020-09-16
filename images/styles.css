@@ -4,14 +4,15 @@ body{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    width: auto;
    margin: 0px auto;
-   width: 960px;
-}
+   width: 960px;}
+   h2{color: limegreen;}
+   figure img {
+      width: 190px;
+   }
+   p
+   {color: maroon;}
 
-h2 
-{
-   color:limegreen
-}
-
+   
 /* main */
 
 
