@@ -3,7 +3,7 @@ document.write('<h3>Welcome !</h3>');
 function getName(){
     let userName
     while(!userName){
-        userName = prompt('what is your name??').trim   
+        userName = prompt('what is your name??').trim()   
     }
     // const value = `<h3>Hello  ${userName} ${userName}!</h3>`;
     // document.write(value);
