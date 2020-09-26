@@ -1,13 +1,17 @@
 /* header */
+
 body{
-   background-color: rgb(250, 185, 100);
+   background-image: url("../assets/Snapchat-518127427.jpg");
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+   background-size: cover;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    width: auto;
-   margin: 0px auto;
-   width: 960px;}
-   h2{color: limegreen;}
+   margin: 130xp;
+   }
+   h2{color: rgb(205, 50, 50);}
    figure img {
-      width: 190px;
+      width: 0px;
    }
    p
    {color: maroon;}
